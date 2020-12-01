@@ -8,3 +8,4 @@ Data was optimised using QGIS and later coloured and fine tuned with Aerialod.
 Tutorial used from [statsmapsnpix](http://www.statsmapsnpix.com/2020/11/how-to-make-3d-population-density.html)
 
 ![](gbr-pop-density1024.png)
+![](italy-pop-density.png)
